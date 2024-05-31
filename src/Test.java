@@ -2,5 +2,7 @@ public class Test {
   public static void main(String[] args) {
      int [] arr = new int[10];
     System.out.println(arr[0]);
+    String [] arr2 = new String[1000];
+    System.out.println(arr2);
   }
 }
