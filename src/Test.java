@@ -1,8 +1,10 @@
 public class Test {
   public static void main(String[] args) {
-     int [] arr = new int[10];
-    System.out.println(arr[0]);
-    String [] arr2 = new String[1000];
-    System.out.println(arr2);
+   int positive = 10;
+   int negative = -10;
+    System.out.println("양의 부호 연산자 적용: " + positive);
+    System.out.println("음의 부호 연산자 적용 : " + (-positive));
+    System.out.println("음의 부호 연산자로 부호 전환 : " + (+negative));
+    System.out.println("음의 부호 연산자로 다시 부호 전환 : " + (-negative));
   }
 }
