@@ -1,3 +1,5 @@
+package If;
+
 public class If {
     public static void main(String[] args){
         int score = 95;
@@ -7,6 +9,6 @@ public class If {
         } else {
             grade = 'B';
         }
-    System.out.println("당신의 학점은 : " + grade);
+    System.out.println(grade);
     }
 }
