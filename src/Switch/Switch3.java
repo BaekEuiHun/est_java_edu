@@ -1,4 +1,4 @@
-package switch1;
+package Switch;
 
 public class Switch3 {
     public static void main(String[] args){
