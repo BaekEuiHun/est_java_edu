@@ -39,5 +39,11 @@ public class Test {
     System.out.println(true&&false);
     System.out.println(false&&true);
     System.out.println(false&&false);
+
+    int score = 95;
+    char grade = (score > 90) ? 'A' : 'B';
+    System.out.println(grade);
+    String grade2 = (score == 95 && score % 5==0) ? "good" : "bad";
+    System.out.println(grade2);
   }
 }
