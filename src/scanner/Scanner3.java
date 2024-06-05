@@ -9,7 +9,6 @@ public class Scanner3 {
     Scanner scanner = new Scanner(System.in);
     Random rand = new Random();
     while (true) {
-
       int targetNum = rand.nextInt(100) + 1;
       System.out.println("숫자 맞추기 게임");
       System.out.print("1부터 100 사이 숫자를 입력하세요");
