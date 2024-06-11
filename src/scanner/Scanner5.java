@@ -15,7 +15,6 @@ public class Scanner5 {
       case 1:
         System.out.println("첫번째 값을 입력하고 엔터를 누르세요");
         break;
-
       case 2:
         System.out.println("첫번째 값을 입력하고 엔터를 누르세요");
         break;
@@ -56,7 +55,6 @@ public class Scanner5 {
       case 1:
         System.out.println("첫번째 값을 입력하고 엔터를 누르세요");
         break;
-
       case 2:
         System.out.println("첫번째 값을 입력하고 엔터를 누르세요");
         break;
@@ -79,7 +77,6 @@ public class Scanner5 {
       case 1:
         System.out.println("첫번째 값을 입력하고 엔터를 누르세요");
         break;
-
       case 2:
         System.out.println("첫번째 값을 입력하고 엔터를 누르세요");
         break;
