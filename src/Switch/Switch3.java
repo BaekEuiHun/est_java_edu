@@ -3,7 +3,7 @@ package Switch;
 public class Switch3 {
     public static void main(String[] args){
         char grade = 'A';
-        switch(grade){
+        switch(grade) {
             case 'A':
         System.out.println("Excellent");
         break;
