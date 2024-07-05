@@ -4,7 +4,7 @@ public class Switch2 {
   public static void main(String[] args) {
     String day = "일";
 
-    switch (day) {
+    switch (day)  {
       case "월":
         System.out.println("책 읽기");
         break;
